@@ -1,9 +1,3 @@
-[![GoKEV](http://GoKEV.com/GoKEV200.png)](http://GoKEV.com/)
-<div style="position: absolute; top: 40px; left: 200px;">
-
-
-# Why????  WHY!?!??
-
 This repo is full of some turn-key custom module examples, written in simple languages.  
 They don't require a python guru to understand the function, and they're part of a greater
 effort to demystify the interaction between Ansible and the module itself.
@@ -15,7 +9,7 @@ These modules show examples of variable and status inputs so that you can proces
 
 Current existing examples of custom modules, written in:
 * Python (relatively classless, simple)
-* Perl (God's perfect language)
+* Perl ( Example using perl )
 * PHP (because who doesn't want an Ansible module written in PHP?)
 * Bash (never underestimate the need for converting a shell script into a module)
 
